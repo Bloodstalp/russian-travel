@@ -40,7 +40,8 @@
          "website"
          "image" 
          "paragraph";
-         
+         padding: auto;
+         justify-content: center;
      }
 }
 @media screen and  (max-width: 320px) {
