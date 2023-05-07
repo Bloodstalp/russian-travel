@@ -14,7 +14,6 @@
     .footer{
             margin:88px 24px 0 24px;
             max-width: 720px;
-            max-height: 18px;
         }
     }
     @media screen and (max-width: 320px) {

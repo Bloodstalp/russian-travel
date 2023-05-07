@@ -6,4 +6,4 @@
 3)Порядок соотвествует макету Figma.
 4)Все стили и блоки разбиты в соответствии БЭМ.
 5)Использовался grid.
-6)Сайт проекта : https://bloodstalp.github.io/russian-travel/ /
+6)Сайт проекта : https://bloodstalp.github.io/russian-travel/
