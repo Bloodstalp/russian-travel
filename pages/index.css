@@ -36,4 +36,4 @@
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__links/footer__links.css);
 @import url(../blocks/place/__paragraphs/place__paragraphs.css);
-@import url(../blocks/intro/__list/__list-number.css/intro__list-number.css);
+@import url(../blocks/intro/__list-number/intro__list-number.css);
